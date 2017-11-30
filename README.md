@@ -2,6 +2,11 @@
 
 This solution generates metrics for SQL result sets and exposes them as Prometheus metrics. It relies on the services Prometheus SQL (dbhi/prometheus-sql) and SQL Agent (dbhi/sql-agent), both available as containers on Docker Hub, to execute and return the SQL result sets.
 
+## Architecture overview
+
+![alt text](https://bytebucket.org/deyvidw/prometheus-mssql-exporter/raw/9d9204e93273ceb19ff6e2a5baf4f4f383c1a1ee/Diagram.PNG?token=5675cce4c155e6d338f4915a4bf4c0a85d9e022f)
+
+
 ## Deployment
 
 1) Run the **SQL agent** service.
