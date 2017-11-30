@@ -25,7 +25,8 @@ docker run -d
 
 To see the metrics, open up the browser http://localhost:8080/metrics
 
-**References:**
 
+**References:**
 https://hub.docker.com/r/dbhi/sql-agent/
+
 https://hub.docker.com/r/dbhi/prometheus-sql/
