@@ -28,5 +28,4 @@ To see the metrics, open up the browser http://localhost:8080/metrics
 **References:**
 
 https://hub.docker.com/r/dbhi/sql-agent/
-
 https://hub.docker.com/r/dbhi/prometheus-sql/
