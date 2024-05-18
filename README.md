@@ -4,8 +4,7 @@ This solution generates metrics for SQL result sets and exposes them as Promethe
 
 ## Architecture overview
 
-![alt text](https://bytebucket.org/deyvidw/prometheus-mssql-exporter/raw/9d9204e93273ceb19ff6e2a5baf4f4f383c1a1ee/Diagram.PNG?token=5675cce4c155e6d338f4915a4bf4c0a85d9e022f)
-
+![alt text](https://github.com/deyvidwilliam/mssql-prometheus-exporter/blob/master/diagram.png?raw=true)
 
 ## Deployment
 
